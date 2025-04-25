@@ -21,3 +21,5 @@ cout << "tiit10" << endl;
 }
 ```
 </pre>
+## Дицензия 
+Этот проект находиться по лицензией GNU GPL 3.0 [LICENSE](LICENSE)
